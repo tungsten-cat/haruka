@@ -1,5 +1,4 @@
 
-import handlers.filesystem
 import handlers.json
 import handlers.importer
 
