@@ -2,7 +2,7 @@
 # Importing module for working with JSON files
 import json
 
-def json_reader(json_file):
+def get_file_content(json_file):
     # Define variable that will contain this JSON file content
     json_content = 0
 
